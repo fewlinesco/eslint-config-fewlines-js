@@ -1,6 +1,6 @@
 # eslint-config-fewlines-js
 
-Disclaimer: this package is made internally and is open source for convenience: feel free to use it and suggest amelioration but note that we reserve the right to not think it good for us.
+Disclaimer: this package is made for our internal usage and is only open source for convenience so we might not consider _Pull Requests_ or _Issues_.
 
 This package includes the shareable ESLint configuration used by Fewlines javascript and typescript projects.
 
