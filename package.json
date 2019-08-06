@@ -1,6 +1,6 @@
 {
   "name": "@fewlines/eslint-config-fewlines-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shareable ESLint configuration used by Fewlines",
   "main": "index.js",
   "files": [
@@ -10,10 +10,10 @@
   "author": "Fewlines",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": "^6.1.0",
-    "eslint-config-prettier": "^6.0.0",
-    "eslint-plugin-prettier": "^3.1.0",
-    "eslint-plugin-react": "^7.14.3",
-    "prettier": "^1.18.2"
+    "eslint": ">=5.10",
+    "eslint-config-prettier": ">=6",
+    "eslint-plugin-prettier": ">=3",
+    "eslint-plugin-react": ">=7.14",
+    "prettier": ">=1.18"
   }
 }
