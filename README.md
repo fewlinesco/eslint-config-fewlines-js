@@ -8,17 +8,16 @@ Extends `eslint:recommended`, `plugin:prettier/recommended`, `plugin:react/recom
 
 ## Usage
 
-This package is meant to be used with `@fewlines/front-scripts`, if you do, you only have to install this one package:
-
 ```shell
-yarn add -D @fewlines/front-scripts
+yarn add -D @fewlines/eslint-config-fewlines-js eslint eslint-config-prettier eslint-plugin-prettier prettier eslint-plugin-react
 ```
+
 
 Then add these line to your `package.json`:
 
 ```json
 "eslintConfig": {
-  "extends": "fewlines-js"
+  "extends": "@fewlines/fewlines-js"
 }
 ```
 
